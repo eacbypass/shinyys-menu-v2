@@ -6,4 +6,7 @@
 *   **Triggerbot** - automatically fires when crosshair is on enemy
 *   **Anti-Flash** - disables flashbang affects i.e. aim when local player is flashed
 
+# Menu:
+<img width="500" height="250" src="https://i.imgur.com/n2SUUaP.png">
+
 original post - https://www.unknowncheats.me/forum/cs-go-releases/463738-shinyys-simple-menu.html
